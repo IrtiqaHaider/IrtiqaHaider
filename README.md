@@ -26,15 +26,8 @@ I'm a passionate developer specializing in the MERN stack, with a keen interest 
 
 ### 🌟 Featured Projects
 
-- **[Open-Lyrics](https://github.com/YourUsername/Open-Lyrics)**  
-  A Python library that transcribes and translates voice files.  
-
-- **[RetailXpress](https://github.com/YourUsername/RetailXpress)**  
+- **[RetailXpress](https://github.com/Irtiqahaider/RetailXpress)**  
   A retail POS system built in Java with extensive features like inventory management, sales reports, and more.
-
-- **[Amauton](https://github.com/YourUsername/Amauton)**  
-  An automation tool designed for Amazon Seller accounts, handling everything from product hunting to listing optimization.
-
 ---
 
 

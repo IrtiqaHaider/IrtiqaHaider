@@ -1,6 +1,6 @@
 # 👋 Hello! I'm Irtiqa Haider
 
-### 🚀 MERN Stack Developer | AI/ML Enthusiast | Data Science Explorer
+### 🚀 Full Stack Developer | AI/ML Enthusiast | Data Science Explorer
 
 I'm a passionate developer specializing in the MERN stack, with a keen interest in AI/ML and Data Science. I'm currently a final-year student at FAST NUCES Islamabad and am constantly exploring new technologies and working on exciting projects.
 
